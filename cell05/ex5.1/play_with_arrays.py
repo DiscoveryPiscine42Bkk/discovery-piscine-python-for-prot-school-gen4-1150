@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def play_with_arrays():
     """
     Defines an array, creates a new array by adding 2 to each element,
